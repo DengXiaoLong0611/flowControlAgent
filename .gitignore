@@ -1,0 +1,23 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 日志文件
+*.log
+logs/
+
+# 环境变量文件
+.env
+*.env
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# 数据和索引
+data/index/
+data/raw/
+
+# 模型或临时文件
+*.pkl
+*.h5
