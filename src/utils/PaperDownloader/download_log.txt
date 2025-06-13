@@ -1,0 +1,156 @@
+成功下载的DOI：
+10.1115/1.2837511	下载成功.
+10.1016/j.renene.2015.08.029	下载成功.
+10.1007/s10694-009-0105-9	下载成功.
+10.1007/s10973-006-7703-2	下载成功.
+10.1109/ICINFA.2008.4608021	下载成功.
+10.4028/www.scientific.net/AMR.199-200.1513	下载成功.
+10.1088/0960-1317/15/2/010	下载成功.
+10.1016/j.fuproc.2008.02.004	下载成功.
+10.1109/STHERM.2000.837062	下载成功.
+10.1016/j.cep.2008.02.013	下载成功.
+10.1021/acs.iecr.7b04833	下载成功.
+10.1155/2013/195763	下载成功.
+10.1061/(ASCE)0733-9402(2006)132:2(61)	下载成功.
+10.1109/STHERM.1999.762428	下载成功.
+10.4028/www.scientific.net/AMM.821.591	下载成功.
+10.1016/j.ces.2013.07.022	下载成功.
+
+下载失败的DOI：
+10.5139/JKSAS.2019.47.8.541	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.5139/JKSAS.2019.47.8.541
+10.1016/j.renene.2015.08.029	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1016/j.renene.2015.08.029
+10.1007/s10749-019-00998-x	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1007/s10749-019-00998-x
+10.1115/1.2837511	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1115/1.2837511
+10.1088/1742-6596/1439/1/012009	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1088/1742-6596/1439/1/012009
+10.5139/JKSAS.2019.47.8.541	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.5139/JKSAS.2019.47.8.541
+10.1016/j.renene.2015.08.029	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1016/j.renene.2015.08.029
+10.1088/1742-6596/1439/1/012009	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1088/1742-6596/1439/1/012009
+10.1115/1.2837511	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1115/1.2837511
+10.1007/s10749-019-00998-x	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1007/s10749-019-00998-x
+10.5139/JKSAS.2019.47.8.541	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.5139/JKSAS.2019.47.8.541
+10.1088/1742-6596/1439/1/012009	下载失败! 错误信息: Invalid URL 'https:/downloads/2020-03-03/e3/laouar2020.pdf#navpanes=0&view=FitH': No host supplied
+10.1007/s10749-019-00998-x	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-03-30/25/10.1007@s10749-019-00998-x.pdf#navpanes=0&view=FitH': No host supplied
+10.1088/1742-6596/1439/1/012009	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.1088/1742-6596/1439/1/012009
+10.1007/s10749-019-00998-x	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.1007/s10749-019-00998-x
+10.1088/1742-6596/1439/1/012009	下载失败! 错误信息: Invalid URL 'https:/downloads/2020-03-03/e3/laouar2020.pdf#navpanes=0&view=FitH': No host supplied
+10.1007/s10749-019-00998-x	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-03-30/25/10.1007@s10749-019-00998-x.pdf#navpanes=0&view=FitH': No host supplied
+10.5139/JKSAS.2019.47.8.541	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.5139/JKSAS.2019.47.8.541
+10.1088/1742-6596/1439/1/012009	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.1088/1742-6596/1439/1/012009
+10.1007/s10749-019-00998-x	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.1007/s10749-019-00998-x
+10.1007/s10694-009-0105-9	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1007/s10694-009-0105-9
+10.1007/s10973-006-7703-2	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1007/s10973-006-7703-2
+10.1088/1742-6596/1439/1/012009	下载失败! 错误信息: Invalid URL 'https:/downloads/2020-03-03/e3/laouar2020.pdf#navpanes=0&view=FitH': No host supplied
+10.1007/s10749-019-00998-x	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-03-30/25/10.1007@s10749-019-00998-x.pdf#navpanes=0&view=FitH': No host supplied
+10.1007/s10694-009-0105-9	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1007/s10694-009-0105-9
+10.1007/s10749-019-00998-x	下载失败! 错误信息: Invalid URL 'https:https://sci.bban.top/pdf/10.1007/s10749-019-00998-x.pdf': No host supplied
+10.1007/s10973-006-7703-2	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1007/s10973-006-7703-2
+10.1088/1742-6596/1439/1/012009	下载失败! 错误信息: Invalid URL 'https:https://sci.bban.top/pdf/10.1088/1742-6596%252F1439%252F1%252F012009.pdf': No host supplied
+10.5139/JKSAS.2019.47.8.541	下载失败! 无法从任何Sci-Hub域名获取文献.
+10.4028/www.scientific.net/AMR.199-200.1513	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.4028/www.scientific.net/AMR.199-200.1513
+10.1109/ICINFA.2008.4608021	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1109/ICINFA.2008.4608021
+10.1109/ITherm55375.2024.10709425	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1109/ITherm55375.2024.10709425
+10.4028/www.scientific.net/AMR.199-200.1513	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.4028/www.scientific.net/AMR.199-200.1513
+10.1109/ICINFA.2008.4608021	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1109/ICINFA.2008.4608021
+10.18280/ijht.350110	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.18280/ijht.350110
+10.1109/ITherm55375.2024.10709425	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1109/ITherm55375.2024.10709425
+10.1109/ITherm55375.2024.10709425	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.1109/ITherm55375.2024.10709425
+10.1007/s12206-019-0924-7	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1007/s12206-019-0924-7
+10.18280/ijht.350110	下载失败! 错误信息: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+10.1007/s12206-019-0924-7	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1007/s12206-019-0924-7
+10.1109/ITherm55375.2024.10709425	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.1109/ITherm55375.2024.10709425
+10.1088/0960-1317/15/2/010	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1088/0960-1317/15/2/010
+10.1007/s12206-019-0924-7	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-10-06/59/10.1007@s12206-019-0924-7.pdf#navpanes=0&view=FitH': No host supplied
+10.1007/s12206-019-0924-7	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.1007/s12206-019-0924-7
+10.1088/0960-1317/15/2/010	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1088/0960-1317/15/2/010
+10.1007/s12206-019-0924-7	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-10-06/59/10.1007@s12206-019-0924-7.pdf#navpanes=0&view=FitH': No host supplied
+10.18186/thermal.797836	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.18186/thermal.797836
+10.18280/ijht.350110	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.18280/ijht.350110
+10.1109/ITherm55375.2024.10709425	下载失败! 无法从任何Sci-Hub域名获取文献.
+10.1007/s12206-019-0924-7	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.1007/s12206-019-0924-7
+10.18186/thermal.797836	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.18186/thermal.797836
+10.1016/j.fuproc.2008.02.004	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1016/j.fuproc.2008.02.004
+10.18186/thermal.797836	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.18186/thermal.797836
+10.1155/ina/4502431	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1155/ina/4502431
+10.1007/s12206-019-0924-7	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-10-06/59/10.1007@s12206-019-0924-7.pdf#navpanes=0&view=FitH': No host supplied
+10.1007/s12206-019-0924-7	下载失败! 错误信息: Invalid URL 'https:https://sci.bban.top/pdf/10.1007/s12206-019-0924-7.pdf': No host supplied
+10.1016/j.fuproc.2008.02.004	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1016/j.fuproc.2008.02.004
+10.18280/ijht.350110	下载失败! 无法从任何Sci-Hub域名获取文献.
+10.1155/ina/4502431	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1155/ina/4502431
+10.18186/thermal.797836	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.18186/thermal.797836
+10.1017/aer.2021.93	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1017/aer.2021.93
+10.1155/ina/4502431	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.1155/ina/4502431
+10.1109/STHERM.2000.837062	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1109/STHERM.2000.837062
+10.1017/aer.2021.93	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1017/aer.2021.93
+10.1109/STHERM.2000.837062	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1109/STHERM.2000.837062
+10.1155/ina/4502431	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.1155/ina/4502431
+10.1017/aer.2021.93	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.1017/aer.2021.93
+10.18186/thermal.797836	下载失败! 无法从任何Sci-Hub域名获取文献.
+10.1155/2013/195763	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1155/2013/195763
+10.1016/j.cep.2008.02.013	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1016/j.cep.2008.02.013
+10.1017/aer.2021.93	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.1017/aer.2021.93
+10.1155/2013/195763	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1155/2013/195763
+10.1155/ina/4502431	下载失败! 无法从任何Sci-Hub域名获取文献.
+10.1016/B978-0-12-382219-2.00630-X	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1016/B978-0-12-382219-2.00630-X
+10.1016/j.cep.2008.02.013	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1016/j.cep.2008.02.013
+10.3390/w11102114	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.3390/w11102114
+10.1016/B978-0-12-382219-2.00630-X	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1016/B978-0-12-382219-2.00630-X
+10.1017/aer.2021.93	下载失败! 无法从任何Sci-Hub域名获取文献.
+10.1016/B978-0-12-382219-2.00630-X	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-03-02/14/forneris2013.pdf#navpanes=0&view=FitH': No host supplied
+10.3390/w11102114	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.3390/w11102114
+10.1016/B978-0-12-382219-2.00630-X	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.1016/B978-0-12-382219-2.00630-X
+10.3390/w11102114	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-11-20/82/sawicki2019.pdf#navpanes=0&view=FitH': No host supplied
+10.3390/w11102114	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.3390/w11102114
+10.1080/09613218.2019.1661762	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1080/09613218.2019.1661762
+10.1016/B978-0-12-382219-2.00630-X	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-03-02/14/forneris2013.pdf#navpanes=0&view=FitH': No host supplied
+10.1080/09613218.2019.1661762	下载失败! 错误信息: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+10.1016/B978-0-12-382219-2.00630-X	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.1016/B978-0-12-382219-2.00630-X
+10.3390/w11102114	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-11-20/82/sawicki2019.pdf#navpanes=0&view=FitH': No host supplied
+10.1080/09613218.2019.1661762	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-09-19/65/nardecchia2019.pdf#navpanes=0&view=FitH': No host supplied
+10.1080/09613218.2019.1661762	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.1080/09613218.2019.1661762
+10.1021/acs.iecr.7b04833	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1021/acs.iecr.7b04833
+10.3390/w11102114	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.3390/w11102114
+10.1016/B978-0-12-382219-2.00630-X	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-03-02/14/forneris2013.pdf#navpanes=0&view=FitH': No host supplied
+10.1016/B978-0-12-382219-2.00630-X	下载失败! 错误信息: Invalid URL 'https:https://sci.bban.top/pdf/10.1016/b978-0-12-382219-2.00630-x.pdf': No host supplied
+10.1080/09613218.2019.1661762	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-09-19/65/nardecchia2019.pdf#navpanes=0&view=FitH': No host supplied
+10.3390/w11102114	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-11-20/82/sawicki2019.pdf#navpanes=0&view=FitH': No host supplied
+10.1021/acs.iecr.7b04833	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1021/acs.iecr.7b04833
+10.3390/en14227772	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.3390/en14227772
+10.3390/w11102114	下载失败! 错误信息: Invalid URL 'https:https://sci.bban.top/pdf/10.3390/w11102114.pdf': No host supplied
+10.1080/09613218.2019.1661762	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.1080/09613218.2019.1661762
+10.3390/en14227772	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.3390/en14227772
+10.1061/(ASCE)0733-9402(2006)132:2(61)	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1061/(ASCE)0733-9402(2006)132:2(61)
+10.1016/j.matpr.2022.09.185	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1016/j.matpr.2022.09.185
+10.1080/09613218.2019.1661762	下载失败! 错误信息: Invalid URL 'https:/downloads/2019-09-19/65/nardecchia2019.pdf#navpanes=0&view=FitH': No host supplied
+10.3390/en14227772	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.3390/en14227772
+10.1080/09613218.2019.1661762	下载失败! 错误信息: Invalid URL 'https:https://sci.bban.top/pdf/10.1080/09613218.2019.1661762.pdf': No host supplied
+10.1061/(ASCE)0733-9402(2006)132:2(61)	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1061/(ASCE)0733-9402(2006)132:2(61)
+10.1016/j.matpr.2022.09.185	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1016/j.matpr.2022.09.185
+10.26868/25222708.2021.30628	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.26868/25222708.2021.30628
+10.1109/STHERM.1999.762428	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1109/STHERM.1999.762428
+10.1016/j.matpr.2022.09.185	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.1016/j.matpr.2022.09.185
+10.3390/en14227772	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.3390/en14227772
+10.26868/25222708.2021.30628	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.26868/25222708.2021.30628
+10.1109/STHERM.1999.762428	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1109/STHERM.1999.762428
+10.26868/25222708.2021.30628	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.26868/25222708.2021.30628
+10.1016/j.matpr.2022.09.185	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.1016/j.matpr.2022.09.185
+10.4028/www.scientific.net/AMM.821.591	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.4028/www.scientific.net/AMM.821.591
+10.26868/25222708.2021.30628	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.26868/25222708.2021.30628
+10.3390/en14227772	下载失败! 无法从任何Sci-Hub域名获取文献.
+10.4028/www.scientific.net/AMM.821.591	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.4028/www.scientific.net/AMM.821.591
+10.1016/j.matpr.2022.09.185	下载失败! 无法从任何Sci-Hub域名获取文献.
+10.1051/matecconf/201930402006	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1051/matecconf/201930402006
+10.1002/fam.3133	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1002/fam.3133
+10.1051/matecconf/201930402006	下载失败! 错误信息: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+10.1051/matecconf/201930402006	下载失败! 错误信息: Invalid URL 'https:/downloads/2020-01-21/eb/goitia2019.pdf#navpanes=0&view=FitH': No host supplied
+10.1051/matecconf/201930402006	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.1051/matecconf/201930402006
+10.26868/25222708.2021.30628	下载失败! 无法从任何Sci-Hub域名获取文献.
+10.1002/fam.3133	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1002/fam.3133
+10.1002/fam.3133	下载失败! 错误信息: 403 Client Error: Forbidden for url: https://sci-hub.st/10.1002/fam.3133
+10.1016/j.ces.2013.07.022	下载失败! 错误信息: 404 Client Error: Not Found for url: https://www.sci-hub.ren/10.1016/j.ces.2013.07.022
+10.1051/matecconf/201930402006	下载失败! 错误信息: Invalid URL 'https:/downloads/2020-01-21/eb/goitia2019.pdf#navpanes=0&view=FitH': No host supplied
+10.1051/matecconf/201930402006	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.1051/matecconf/201930402006
+10.1002/fam.3133	下载失败! 错误信息: 404 Client Error: Not Found for url: https://sci-hub.cat/10.1002/fam.3133
+10.1051/matecconf/201930402006	下载失败! 错误信息: Invalid URL 'https:/downloads/2020-01-21/eb/goitia2019.pdf#navpanes=0&view=FitH': No host supplied
+10.1016/j.ces.2013.07.022	下载失败! 错误信息: 410 Client Error: Gone for url: http://ww38.sci-hub.hk/10.1016/j.ces.2013.07.022
+10.1051/matecconf/201930402006	下载失败! 错误信息: Invalid URL 'https:https://sci.bban.top/pdf/10.1051/matecconf%252F201930402006.pdf': No host supplied
+10.1002/fam.3133	下载失败! 无法从任何Sci-Hub域名获取文献.

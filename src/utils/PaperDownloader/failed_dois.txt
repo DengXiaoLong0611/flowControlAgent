@@ -1,0 +1,11 @@
+以下DOI下载失败，请手动检查资源：
+Flow Resistance Characteristics for Data Center CFD	10.5139/JKSAS.2019.47.8.541
+Numerical analysis of temperature non-uniformity and cooling capacity for capillary ceiling radiant cooling panel	10.1109/ITherm55375.2024.10709425
+A Comparison of a Statistical and Computational Fluid Dynamics Approach to Estimate Heat Release Rate in Road Tunnel Fires	10.18280/ijht.350110
+Inaccuracy of Heat Transfer Characteristics for Pin Fins Considering the Influence of Heat Radiation	10.18186/thermal.797836
+Aerodynamic and flight dynamic simulations of aileron characteristics	10.1155/ina/4502431
+Numerical simulation of fish meat freezing with considering temperature-dependent thermal properties	10.1017/aer.2021.93
+Thermal analysis of an electronics enclosure: coupling flow network modeling (FNM) and computational fluid dynamics (CFD)	10.3390/en14227772
+Flow simulation of the flight manoeuvres of a large transport aircraft with load alleviation	10.1016/j.matpr.2022.09.185
+Influence of Sludge Bucket Height on Flocculation Conditions of Perforated Vortex Flocculation Tank	10.26868/25222708.2021.30628
+Performance Study of Motorcycle Driving-Beam LED Headlight with Different Heat Sink Models and LED Pitch	10.1002/fam.3133
