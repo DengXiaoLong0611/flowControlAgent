@@ -22,3 +22,4 @@ data/raw/
 *.pkl
 *.h5
 data/index/*.json
+data/index/*.json
