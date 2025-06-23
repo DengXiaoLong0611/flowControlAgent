@@ -26,3 +26,6 @@ data/index/*.json
 data/index/*.json
 .env
 config/apikey.txt
+
+# RAG索引文件
+index_storage/ 
