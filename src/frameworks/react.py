@@ -65,7 +65,7 @@ class ReAct(ThoughtFramework):
     async def _search_knowledge_base(self, query: str) -> str:
         """搜索知识库"""
         try:
-            retriever = self.index.as_retriever()
+            retriever = self.index.as_retriever(search_kwargs={"k": 5})  # 这里的5可以调整
             nodes = await retriever.aretrieve(query)
             if nodes:
                 return "\n".join([node.text for node in nodes])

@@ -28,7 +28,7 @@ def load_chat_engine(index_dir: str = "./data/index") -> ContextChatEngine:
     try:
         storage_context = StorageContext.from_defaults(persist_dir=index_dir)
         index = load_index_from_storage(storage_context)
-        chat_engine = index.as_chat_engine(chat_mode="context", verbose=True, llm=llm)
+        chat_engine = index.as_chat_engine(chat_mode="context", similarity_top_k=5, verbose=True, llm=llm)
         return chat_engine
     except Exception as e:
         print(f"加载聊天引擎时出错: {str(e)}")

@@ -26,7 +26,7 @@ llm = OpenAI(
 def load_engine(index_dir=r"data\index") -> ContextChatEngine:
     storage_context = StorageContext.from_defaults(persist_dir=index_dir)
     index = load_index_from_storage(storage_context)
-    return index.as_chat_engine(chat_mode="context", verbose=True, llm=llm)
+    return index.as_chat_engine(chat_mode="context", similarity_top_k=5, verbose=True, llm=llm)
 
 chat_engine = load_engine()
     
