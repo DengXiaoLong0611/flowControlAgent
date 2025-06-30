@@ -26,6 +26,11 @@ class SyntheticJetController:
 
     def set(self, voltage: float, modulation_frequency: float, carrier_frequency: float = 500, modulation_depth: float = 100, modulation_signal_type: str = 'SIN'):
         """
+        当触发这个函数的时候
+        计数器=0
+        计数器+=1
+
+
         设置合成射流信号发生器参数
         :param voltage: 电压(VPP)
         :param modulation_frequency: 调制频率(Hz)

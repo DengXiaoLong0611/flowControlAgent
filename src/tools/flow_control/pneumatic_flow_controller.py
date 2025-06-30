@@ -48,8 +48,13 @@ class PneumaticFlowController:
     def modify_address(self, device_id: int, new_addr: int):
         """
         修改设备Modbus地址
+        
         :param device_id: 当前设备地址
         :param new_addr: 新地址
+
+        当触发这个函数的时候
+        计数器=0
+        计数器+=1
         """
         self.adapter.W(device_id, 120, wdata=new_addr)
 
